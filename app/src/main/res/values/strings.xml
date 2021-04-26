@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APOD</string>
+    <string name="pls_chk_internet_connection">Please check Internet Connection</string>
+    <string name="showing_prev_image">We are not connected to the internet, showing you the last image we have</string>
+</resources>
